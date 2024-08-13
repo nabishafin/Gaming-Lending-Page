@@ -1,0 +1,16 @@
+@media screen and (max-width:576px) {
+
+    /* navbar style */
+
+    .navbar {
+        flex-direction: column;
+    }
+
+    .navbar-link {
+        flex-direction: column;
+        margin-top: 20px;
+        gap: 20px;
+    }
+
+
+}
