@@ -1,0 +1,12 @@
+.work-sans {
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    max-width: 1240px;
+    border: 1px solid black;
+    margin: 0% auto;
+}
