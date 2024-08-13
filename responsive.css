@@ -1,5 +1,9 @@
 @media screen and (max-width:576px) {
 
+    body {
+        padding: 20px;
+    }
+
     /* navbar style */
 
     .navbar {
@@ -12,5 +16,24 @@
         gap: 20px;
     }
 
+    /* banner section */
+    .banner {
+        flex-direction: column;
+    }
 
+    .banner-tittle {
+        width: 100%;
+    }
+
+    .ban-details {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .banner-img img {
+        width: 100%;
+        margin-top: 20px;
+    }
 }
